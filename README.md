@@ -1,2 +1,2 @@
-# Discord-Nitro-Generator
+# Discord Nitro Generator
 A Common Discord Nitro Generator

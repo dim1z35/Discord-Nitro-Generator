@@ -3,7 +3,7 @@ import random
 import string
 import time
 
-WEBHOOK_URL = "YOUR_EWBHOOK_URL_HERE"
+WEBHOOK_URL = "YOUR_EWBHOOK_URL_HERE!"
 
 def generate_code():
     return ''.join(random.choices(string.ascii_letters + string.digits, k=18))
